@@ -1,3 +1,3 @@
 # Conways-Game-of-Life
 
-This is Conways Game of Life remaid in golang
+This is a remake of Conways Game of Life in golang
